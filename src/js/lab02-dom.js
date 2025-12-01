@@ -2,5 +2,4 @@ import { createComponent as createInputListComponent } from './input-list-compon
 
 createInputListComponent(document.querySelector('body'));
 
-
-
+          
